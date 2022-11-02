@@ -1,1 +1,1 @@
-[Play](https://mcbeefyvevo.github.io/cool-moving-colors/)
+[Spustit](https://mcbeefyvevo.github.io/cool-moving-colors/)
